@@ -1,10 +1,7 @@
 <div align="center">
   <img height="150" src="https://noic.com.br/wp-content/uploads/2021/07/scene1.gif"  />
 </div>
-
-###
-
-## Hi there 👋
+##
 # 💫 About Me:
 👤 Fábio Horta — 21 years old<br>👨‍💻 About Me<br>I'm a Computer Engineering student at the University of Beira Interior (UBI), with a strong interest in backend development. I enjoy designing efficient systems and solving complex problems that challenge my thinking and skills.<br><br>I'm a dedicated and goal-oriented individual, always eager to learn and grow. My focus, discipline, and commitment drive me to deliver high-quality work and continuously evolve as a developer.<br><br>Feel free to reach out:<br><br>📧 Email: fabiohorta1@gmail.com<br>💼 LinkedIn: linkedin.com/in/fábio-horta-096aa717b
 
