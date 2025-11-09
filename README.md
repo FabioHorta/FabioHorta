@@ -4,7 +4,7 @@
 
 ##
 
-## 👤 Fábio Horta — 21 years old
+## 👤 Fábio Horta — 22 years old
 
 # 💫 About Me
 
