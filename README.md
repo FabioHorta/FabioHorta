@@ -1,51 +1,77 @@
 <div align="center">
-  <img height="150" src="https://noic.com.br/wp-content/uploads/2021/07/scene1.gif" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1622,40:12293b,100:1f6f6b&amp;height=200&amp;section=header&amp;text=F%C3%A1bio%20Horta&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Computer%20Engineering%20%E2%80%94%20Backend%20%26%20Systems&amp;descAlignY=61&amp;descSize=18&amp;descColor=8bd8d0&amp;animation=fadeIn" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=8BD8D0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Backend+%26+Systems+Engineering;Computer+Vision+%26+Data+Pipelines;Building+reliable+software%2C+end+to+end" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/fábio-horta-096aa717b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
+  <a href="mailto:fabiohorta1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-12293b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FabioHorta&amp;style=for-the-badge&amp;color=1f6f6b&amp;label=PROFILE+VIEWS" />
+</p>
+
 </div>
 
-##
+## Profile
 
-## 👤 Fábio Horta — 22 years old
+Computer Engineering student at the **University of Beira Interior (UBI)**, focused on **backend development, computer vision, and data-intensive systems**. I approach problems architecture-first — reasoning about structure and trade-offs before implementation — and care about building software that holds up end to end.
 
-# 💫 About Me
+Currently **open to internship and entry-level opportunities** in software and systems engineering.
 
-🎓 I'm a **Computer Engineering student** at the **University of Beira Interior (UBI)**, with a strong interest in **backend development**. I enjoy designing efficient systems and solving complex problems that challenge my thinking and skills.
+```typescript
+const engineer: Profile = {
+  role:      "Computer Engineering Student — UBI",
+  focus:     ["Backend", "Computer Vision", "Data Pipelines", "Systems"],
+  languages: ["Python", "C", "Java", "OCaml", "Dart"],
+  mindset:   "architecture-first · structured reasoning · end-to-end",
+  status:    "open to opportunities",
+};
+```
 
-💡 I'm a dedicated and goal-oriented individual, always eager to learn and grow. My focus, discipline, and commitment drive me to deliver high-quality work and continuously evolve as a developer.
+## Core Competencies
 
-📫 **Feel free to reach out:**
-- 📧 Email: [fabiohorta1@gmail.com](mailto:fabiohorta1@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/fábio-horta-096aa717b](https://www.linkedin.com/in/fábio-horta-096aa717b/)
+| Domain | Focus |
+|---|---|
+| **Backend & Systems** | Service design, data modeling, API architecture, systems reasoned end to end |
+| **Computer Vision** | Feature matching, embeddings, perception pipelines producing structured data |
+| **Data Engineering** | Ingestion, transformation, and processing flows built for correctness and scale |
+| **Databases** | Relational design and querying with PostgreSQL and MySQL |
+| **Mobile** | Cross-platform application development with Flutter |
 
-# 🚀 Currently Learning
-- Backend development with **Java** and **Python**
-- Database design using **MySQL**
-- Improving my skills in **Algorithms and Data Structures**
+## Tech Stack
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FabioHorta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FabioHorta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHorta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-E98407?style=for-the-badge&amp;logo=ocaml&amp;logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
 
----
+**Frameworks & Data**
 
-[![](https://visitcount.itsvg.in/api?id=FabioHorta&icon=8&color=7)](https://visitcount.itsvg.in)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
-###
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FabioHorta&amp;theme=nightowl&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=8bd8d0&amp;icon_color=8bd8d0" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHorta&amp;theme=nightowl&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=8bd8d0&amp;
