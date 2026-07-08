@@ -1,77 +1,256 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1622,40:12293b,100:1f6f6b&amp;height=200&amp;section=header&amp;text=F%C3%A1bio%20Horta&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Computer%20Engineering%20%E2%80%94%20Backend%20%26%20Systems&amp;descAlignY=61&amp;descSize=18&amp;descColor=8bd8d0&amp;animation=fadeIn" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=8BD8D0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Backend+%26+Systems+Engineering;Computer+Vision+%26+Data+Pipelines;Building+reliable+software%2C+end+to+end" />
-</a>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:0f172a,75:164e63,100:0891b2&text=Fábio%20Horta&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=52&desc=Computer%20Engineering%20·%20Backend%20Systems%20·%20Computer%20Vision%20·%20Data%20Systems&descAlign=50&descAlignY=59&descSize=17&animation=fadeIn"
+  alt="Fábio Horta — Computer Engineering"
+/>
 
 <p>
-  <a href="https://www.linkedin.com/in/fábio-horta-096aa717b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
   <a href="mailto:fabiohorta1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-12293b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fabiohorta1%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FabioHorta&amp;style=for-the-badge&amp;color=1f6f6b&amp;label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/fábio-horta-096aa717b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fábio%20Horta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/FabioHorta">
+    <img src="https://img.shields.io/badge/GitHub-FabioHorta-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Architecture-first+software+engineering;Backend+systems+%7C+Computer+vision+%7C+Data-oriented+applications;Clean+systems+with+structured+technical+reasoning"
+  alt="Typing animation"
+/>
 
 </div>
 
-## Profile
+---
 
-Computer Engineering student at the **University of Beira Interior (UBI)**, focused on **backend development, computer vision, and data-intensive systems**. I approach problems architecture-first — reasoning about structure and trade-offs before implementation — and care about building software that holds up end to end.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-Currently **open to internship and entry-level opportunities** in software and systems engineering.
+## Professional Profile
+
+I am a **Computer Engineering student at the University of Beira Interior**, focused on **backend development**, **computer vision**, **data-oriented systems**, and **software architecture**.
+
+My engineering approach is based on structured reasoning: understanding requirements, identifying constraints, defining clear system boundaries, and implementing solutions that are maintainable, reliable, and technically coherent.
+
+Currently seeking **internship** and **entry-level software engineering opportunities**.
+
+</td>
+<td width="38%" valign="top">
+
+## Snapshot
+
+```text
+Role        Computer Engineering Student
+University  University of Beira Interior
+Focus       Backend · Vision · Data
+Location    Portugal
+Status      Open to opportunities
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Engineering Profile
 
 ```typescript
-const engineer: Profile = {
-  role:      "Computer Engineering Student — UBI",
-  focus:     ["Backend", "Computer Vision", "Data Pipelines", "Systems"],
-  languages: ["Python", "C", "Java", "OCaml", "Dart"],
-  mindset:   "architecture-first · structured reasoning · end-to-end",
-  status:    "open to opportunities",
+type EngineeringProfile = {
+  education: string;
+  focus: string[];
+  languages: string[];
+  principles: string[];
+  status: string;
+};
+
+const profile: EngineeringProfile = {
+  education: "Computer Engineering — University of Beira Interior",
+  focus: [
+    "Backend Development",
+    "Computer Vision",
+    "Data Systems",
+    "Software Architecture"
+  ],
+  languages: ["Python", "C", "Java", "OCaml", "Dart", "JavaScript"],
+  principles: [
+    "architecture-first reasoning",
+    "clear system boundaries",
+    "maintainable implementation",
+    "technical responsibility"
+  ],
+  status: "open to internship and entry-level software engineering roles"
 };
 ```
 
-## Core Competencies
-
-| Domain | Focus |
-|---|---|
-| **Backend & Systems** | Service design, data modeling, API architecture, systems reasoned end to end |
-| **Computer Vision** | Feature matching, embeddings, perception pipelines producing structured data |
-| **Data Engineering** | Ingestion, transformation, and processing flows built for correctness and scale |
-| **Databases** | Relational design and querying with PostgreSQL and MySQL |
-| **Mobile** | Cross-platform application development with Flutter |
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-E98407?style=for-the-badge&amp;logo=ocaml&amp;logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
-
-**Frameworks & Data**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
-
-## GitHub Activity
+---
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FabioHorta&amp;theme=nightowl&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=8bd8d0&amp;icon_color=8bd8d0" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHorta&amp;theme=nightowl&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=8bd8d0&amp;
+## Technology Stack
+
+</div>
+
+<table>
+  <tr>
+    <td width="180" align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,c,java,ocaml,dart,js&theme=dark" alt="Python, C, Java, OCaml, Dart, JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Computer Vision & Mobile</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=opencv,flutter&theme=dark" alt="OpenCV and Flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex&theme=dark" alt="Git, GitHub, Linux, VS Code, LaTeX" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## Technical Focus
+
+</div>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge&logo=serverfault&logoColor=22D3EE" alt="Backend" />
+      <br/><br/>
+      API design<br/>
+      Service structure<br/>
+      Modular applications<br/>
+      Data modeling
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logo=opencv&logoColor=22D3EE" alt="Computer Vision" />
+      <br/><br/>
+      Image processing<br/>
+      Feature extraction<br/>
+      OpenCV workflows<br/>
+      Structured visual data
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Data%20Systems-0f172a?style=for-the-badge&logo=databricks&logoColor=22D3EE" alt="Data Systems" />
+      <br/><br/>
+      Ingestion<br/>
+      Transformation<br/>
+      Validation<br/>
+      Persistence
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE" alt="Architecture" />
+      <br/><br/>
+      System boundaries<br/>
+      Trade-off reasoning<br/>
+      Maintainability<br/>
+      Technical ownership
+    </td>
+  </tr>
+</table>
+
+---
+
+## Project Direction
+
+<table>
+  <tr>
+    <td width="260"><strong>Backend Systems</strong></td>
+    <td>Applications structured around APIs, persistent data, business logic, and clear module boundaries.</td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision Workflows</strong></td>
+    <td>Systems that process images and transform visual input into structured, usable information.</td>
+  </tr>
+  <tr>
+    <td><strong>Data-Oriented Applications</strong></td>
+    <td>Projects involving transformation, storage, validation, querying, and analysis of data.</td>
+  </tr>
+  <tr>
+    <td><strong>Academic Engineering Projects</strong></td>
+    <td>Work developed around algorithms, databases, systems, programming languages, and software design fundamentals.</td>
+  </tr>
+</table>
+
+---
+
+## Operating Principles
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Structure</strong>
+      <br/><br/>
+      System design before implementation
+    </td>
+    <td align="center" width="25%">
+      <strong>Clarity</strong>
+      <br/><br/>
+      Readable and maintainable code
+    </td>
+    <td align="center" width="25%">
+      <strong>Correctness</strong>
+      <br/><br/>
+      Reliable behavior and consistent data flow
+    </td>
+    <td align="center" width="25%">
+      <strong>Responsibility</strong>
+      <br/><br/>
+      End-to-end ownership of technical decisions
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Current Focus
+
+```text
+Completing Computer Engineering degree at the University of Beira Interior
+Strengthening backend architecture, API design, and database modeling
+Improving computer vision, image processing, and OpenCV-based workflows
+Building projects with clearer documentation and stronger technical structure
+Preparing for internship and entry-level software engineering roles
+```
+
+
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:22d3ee,100:020617"
+  alt=""
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Backend+Systems+%7C+Computer+Vision+%7C+Data+Systems"
+  alt="Footer typing animation"
+/>
+
+</div>
